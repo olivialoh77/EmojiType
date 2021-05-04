@@ -2,7 +2,7 @@
 
 UCLA S21 EE 188: Applied & Interactive Machine Learning Project 2
 
-Objective: Your task is to employ a user-centered design approach to create a keyboard design on a small input area that still allows you to type as fast as possible.
+Objective: Design a suite of pointing-based gestures to input at least five emojis into existing TinyType project 
 
 Functionalities:
 
